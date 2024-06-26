@@ -23,7 +23,7 @@ Bu talimatlar, yerel makinenizde projeyi çalıştırarak geliştirme ve test et
    ```bash
    flutter pub get
    ```
-3.**Uygulamayı Başlatın:**
+3. **Uygulamayı Başlatın:**
    ```bash
    flutter run
    ```
