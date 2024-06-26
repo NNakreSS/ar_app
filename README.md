@@ -1,16 +1,35 @@
-# ar_app
+# Flutter 3D Viewer Uygulaması
 
-A new Flutter project.
+Bu proje, Flutter'da `model_viewer_plus` kütüphanesini kullanarak bir 3D viewer ve Arttırılmış Gerçeklik oluşturmayı gösterir. Eğitim videosu ile adım adım nasıl yapıldığını öğrenebilirsiniz.
 
-## Getting Started
+## Başlangıç
 
-This project is a starting point for a Flutter application.
+Bu talimatlar, yerel makinenizde projeyi çalıştırarak geliştirme ve test etmenizi sağlar.
 
-A few resources to get you started if this is your first Flutter project:
+### Gereksinimler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK
+- Dart SDK
+- Bir 3D model dosyası (`.glb` veya `.gltf` formatında)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Kurulum
+
+1. **Projeyi Klonlayın:**
+   ```bash
+   git clone [repo linkinizi buraya ekleyin]
+   cd 3d_viewer_app
+   ````
+2. **Bağımlılıkları Yükleyin:**
+  ```bash
+  Kodu kopyala
+  flutter pub get
+  ```
+3.**Uygulamayı Başlatın:**
+  ```bash
+  Kodu kopyala
+  flutter run
+  ```
+
+## Adım adım anlatım:
+- [YouTube](https://youtu.be/PQLSQ3l2OUg)
+- [Örnek Proje](https://github.com/NNakreSS/space_voyage)
