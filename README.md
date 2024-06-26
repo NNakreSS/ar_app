@@ -21,12 +21,10 @@ Bu talimatlar, yerel makinenizde projeyi çalıştırarak geliştirme ve test et
    ````
 2. **Bağımlılıkları Yükleyin:**
    ```bash
-   Kodu kopyala
    flutter pub get
    ```
 3.**Uygulamayı Başlatın:**
    ```bash
-   Kodu kopyala
    flutter run
    ```
 
