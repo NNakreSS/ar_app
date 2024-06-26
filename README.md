@@ -20,15 +20,15 @@ Bu talimatlar, yerel makinenizde projeyi çalıştırarak geliştirme ve test et
    cd 3d_viewer_app
    ````
 2. **Bağımlılıkları Yükleyin:**
-  ```bash
-  Kodu kopyala
-  flutter pub get
-  ```
+   ```bash
+   Kodu kopyala
+   flutter pub get
+   ```
 3.**Uygulamayı Başlatın:**
-  ```bash
-  Kodu kopyala
-  flutter run
-  ```
+   ```bash
+   Kodu kopyala
+   flutter run
+   ```
 
 ## Adım adım anlatım:
 - [YouTube](https://youtu.be/PQLSQ3l2OUg)
